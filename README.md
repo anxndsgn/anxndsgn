@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+designer
+
+design more, code less
+
 <!--
 **anxndsgn/anxndsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
