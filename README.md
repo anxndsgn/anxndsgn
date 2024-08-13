@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-designer
-
 design more, code less
 
 <!--
